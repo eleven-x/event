@@ -1,0 +1,18 @@
+{
+  "name": "eleven-x/event",
+  "description": "Event system",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "eleven-x",
+      "email": "elevenonebyone@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Eleven\\": "./src"
+    }
+  },
+  "require": {}
+}
