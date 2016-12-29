@@ -2,6 +2,9 @@
 
 Simple php event system
 
+## Install 
+
+`composer require eleven-x/event`
 
 ## API
 
